@@ -1,25 +1,10 @@
-## My Stack Problems
+#一点点说明
 
-> This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll), and the search posts using [Super Search](https://github.com/chinchang/super-search)
+这是[BeiYuu.com](http://beiyuu.com)的示例代码，如果你看了[使用Github Pages建独立博客](http://beiyuu.com/github-pages)，希望看下去哦：
 
-### Demo
-* [https://agusmakmun.github.io](https://agusmakmun.github.io)
-
-#### Feature
-
-* Sitemap and XML Feed
-* Paginations in homepage
-* Posts under category
-* Realtime Search Posts _(title & description)_ under query.
-* Related Posts
-* Highlight pre
-* Next & Previous Post
-* Disqus comment
-* Projects
-* Project page
-* Share on social media
-* Google analytics
-
-#### Screenshot
-
-![Screenshot Post Page](https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/screenshot-post-page.png  "Screenshot Post Page")
+* 马上动手，很赞
+* 感谢认可
+* 推荐阅读：[我为什么写博客？](http://beiyuu.com/why-blog)
+* 想复用我的设计，没问题，标个出处就好啦
+* 转载也没问题，标个出处呗少年
+* 恩，认真的童鞋最可爱啦~
